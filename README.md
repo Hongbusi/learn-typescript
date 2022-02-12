@@ -34,3 +34,13 @@
 - [tuple 类型的使用](./05_TypeScript数据类型/05_tuple类型的使用.ts)
 - [tuple 的应用场景](./05_TypeScript数据类型/06_tuple的应用场景.ts)
 - [tuple 的应用场景（优化）](./05_TypeScript数据类型/07_tuple的应用场景（优化）.ts)
+
+## TypeScript 类型补充
+
+- [函数的参数和返回值类型](./06_TypeScript类型补充/01_函数的参数和返回值类型.ts)
+- [匿名函数的参数类型](./06_TypeScript类型补充/02_匿名函数的参数类型.ts)
+- [对象类型](./06_TypeScript类型补充/03_对象类型.ts)
+- [可选类型](./06_TypeScript类型补充/04_可选类型.ts)
+- [联合类型](./06_TypeScript类型补充/05_联合类型.ts)
+- [可选类型和联合类型的关系](./06_TypeScript类型补充/06_可选类型和联合类型的关系.ts)
+- [类型别名](./06_TypeScript类型补充/07_类型别名.ts)
