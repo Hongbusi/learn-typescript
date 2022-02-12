@@ -21,3 +21,6 @@
 - [boolean 类型的使用](./04_变量的定义/03_boolean类型的使用.ts)
 - [string 类型的使用](./04_变量的定义/04_string类型的使用.ts)
 - [array 类型的使用](./04_变量的定义/05_array类型的使用.ts)
+- [object 类型的使用](./04_变量的定义/06_object类型的使用.ts)
+- [null 和 undefined 类型](./04_变量的定义/07_null和undefined类型.ts)
+- [symbol 类型](./04_变量的定义/08_symbol类型.ts)
