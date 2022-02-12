@@ -8,3 +8,10 @@ foo(); // TypeError: Cannot read property 'length' of undefined
 
 // 永远执行不到
 console.log('渲染界面成千上万行的 js 代码需要执行，去渲染界面');
+
+// 定义变量
+let bar = 'abc';
+
+bar = 123;
+
+console.log(bar.length);
