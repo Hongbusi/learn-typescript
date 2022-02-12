@@ -24,3 +24,10 @@
 - [object 类型的使用](./04_变量的定义/06_object类型的使用.ts)
 - [null 和 undefined 类型](./04_变量的定义/07_null和undefined类型.ts)
 - [symbol 类型](./04_变量的定义/08_symbol类型.ts)
+
+## TypeScript 数据类型
+
+- [any 类型的使用](./05_TypeScript数据类型/01_any类型的使用.ts)
+- [unknown 类型的使用](./05_TypeScript数据类型/02_unknown类型的使用.ts)
+- [void 类型的使用](./05_TypeScript数据类型/03_void类型的使用.ts)
+- [never 类型的使用](./05_TypeScript数据类型/04_never类型的使用.ts)
