@@ -7,3 +7,4 @@
 ## 邂逅 TypeScript
 
 - [Hello TypeScript](./02_邂逅TypeScript/01_Hello-TypeScript.ts)
+- [TypeScript 的数据类型](./02_邂逅TypeScript/02_TypeScript的数据类型.ts)
