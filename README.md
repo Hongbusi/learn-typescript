@@ -31,3 +31,6 @@
 - [unknown 类型的使用](./05_TypeScript数据类型/02_unknown类型的使用.ts)
 - [void 类型的使用](./05_TypeScript数据类型/03_void类型的使用.ts)
 - [never 类型的使用](./05_TypeScript数据类型/04_never类型的使用.ts)
+- [tuple 类型的使用](./05_TypeScript数据类型/05_tuple类型的使用.ts)
+- [tuple 的应用场景](./05_TypeScript数据类型/06_tuple的应用场景.ts)
+- [tuple 的应用场景（优化）](./05_TypeScript数据类型/07_tuple的应用场景（优化）.ts)
