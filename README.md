@@ -13,3 +13,7 @@
 
 - `ts-node` + `tslib` + `@types/node`
 - [Webpack](./03_webpack-ts)
+
+## 变量的定义
+
+- [变量的定义格式](./04_变量的定义/01_变量的定义格式.ts)
