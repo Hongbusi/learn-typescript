@@ -82,3 +82,11 @@
 - [类的静态成员](./09_TypeScript类的使用/09_类的静态成员.ts)
 - [抽象类 abstract](./09_TypeScript类的使用/10_抽象类abstract.ts)
 - [类的类型](./09_TypeScript类的使用/11_类的类型.ts)
+
+## TypeScript 接口的使用
+
+- [声明对象类型](./10_TypeScript接口的使用.ts/01_声明对象类型.ts)
+- [索引类型](./10_TypeScript接口的使用.ts/02_索引类型.ts)
+- [函数类型](./10_TypeScript接口的使用.ts/03_函数类型.ts)
+- [接口的继承](./10_TypeScript接口的使用.ts/04_接口的继承.ts)
+- [交叉类型](./10_TypeScript接口的使用.ts/05_交叉类型.ts)
