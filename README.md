@@ -102,3 +102,8 @@
 - [泛型接口的使用](./11_TypeScript泛型的使用/03_泛型接口的使用.ts)
 - [泛型类的使用](./11_TypeScript泛型的使用/04_泛型类的使用.ts)
 - [泛型的类型约束](./11_TypeScript泛型的使用/05_泛型的类型约束.ts)
+
+## TypeScript 其他内容补充
+
+- [命名空间](./12_TypeScript其他内容补充/src/utils/format.ts)
+- [类型声明](./12_TypeScript其他内容补充/src/hbs.d.ts)
