@@ -63,3 +63,5 @@
 - [参数的可选类型](./08_TypeScript函数详解/03_参数的可选类型.ts)
 - [参数的默认值](./08_TypeScript函数详解/04_参数的默认值.ts)
 - [函数的剩余参数](./08_TypeScript函数详解/05_函数的剩余参数.ts)
+- [this 的默认推导](./08_TypeScript函数详解/06_this的默认推导.ts)
+- [this 的不明确类型](./08_TypeScript函数详解/07_this的不明确类型.ts)
