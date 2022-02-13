@@ -68,3 +68,17 @@
 - [函数的重载（联合类型）](./08_TypeScript函数详解/08_函数的重载（联合类型）.ts)
 - [函数的重载（函数重载）](./08_TypeScript函数详解/09_函数的重载（函数重载）.ts)
 - [函数的重载练习](./08_TypeScript函数详解/10_函数的重载练习.ts)
+
+## TypeScript 类的使用
+
+- [类的定义](./09_TypeScript类的使用/01_类的定义.ts)
+- [类的继承](./09_TypeScript类的使用/02_类的继承.ts)
+- [类的基础 2](./09_TypeScript类的使用/03_类的继承2.ts)
+- [类的多态](./09_TypeScript类的使用/04_类的多态.ts)
+- [成员的修饰符 - private](./09_TypeScript类的使用/05_成员的修饰符-private.ts)
+- [成员的修饰符 - protected](./09_TypeScript类的使用/06_成员的修饰符-protected.ts)
+- [属性的只读 readonly](./09_TypeScript类的使用/07_属性的只读readonly.ts)
+- [getter-setter](./09_TypeScript类的使用/08_getter-setter.ts)
+- [类的静态成员](./09_TypeScript类的使用/09_类的静态成员.ts)
+- [抽象类 abstract](./09_TypeScript类的使用/10_抽象类abstract.ts)
+- [类的类型](./09_TypeScript类的使用/11_类的类型.ts)
