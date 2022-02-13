@@ -91,3 +91,5 @@
 - [接口的继承](./10_TypeScript接口的使用.ts/04_接口的继承.ts)
 - [交叉类型](./10_TypeScript接口的使用.ts/05_交叉类型.ts)
 - [接口的实现](./10_TypeScript接口的使用.ts/06_接口的实现.ts)
+- [interface 和 type 的区别](./10_TypeScript接口的使用.ts/07_interface和type的区别.ts)
+- [字面量赋值](./10_TypeScript接口的使用.ts/08_字面量赋值.ts)
