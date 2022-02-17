@@ -85,15 +85,15 @@
 
 ## TypeScript 接口的使用
 
-- [声明对象类型](./10_TypeScript接口的使用.ts/01_声明对象类型.ts)
-- [索引类型](./10_TypeScript接口的使用.ts/02_索引类型.ts)
-- [函数类型](./10_TypeScript接口的使用.ts/03_函数类型.ts)
-- [接口的继承](./10_TypeScript接口的使用.ts/04_接口的继承.ts)
-- [交叉类型](./10_TypeScript接口的使用.ts/05_交叉类型.ts)
-- [接口的实现](./10_TypeScript接口的使用.ts/06_接口的实现.ts)
-- [interface 和 type 的区别](./10_TypeScript接口的使用.ts/07_interface和type的区别.ts)
-- [字面量赋值](./10_TypeScript接口的使用.ts/08_字面量赋值.ts)
-- [枚举类型的使用](./10_TypeScript接口的使用.ts/09.枚举类型的使用.ts)
+- [声明对象类型](./10_TypeScript接口的使用/01_声明对象)
+- [索引类型](./10_TypeScript接口的使用/02_索引类型.ts)
+- [函数类型](./10_TypeScript接口的使用/03_函数类型.ts)
+- [接口的继承](./10_TypeScript接口的使用/04_接口的继承.ts)
+- [交叉类型](./10_TypeScript接口的使用/05_交叉类型.ts)
+- [接口的实现](./10_TypeScript接口的使用/06_接口的实现.ts)
+- [interface 和 type 的区别](./10_TypeScript接口的使用/07_interface和type的区别.ts)
+- [字面量赋值](./10_TypeScript接口的使用/08_字面量赋值.ts)
+- [枚举类型的使用](./10_TypeScript接口的使用/09.枚举类型的使用.ts)
 
 ## TypeScript 泛型的使用
 
